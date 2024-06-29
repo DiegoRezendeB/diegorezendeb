@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Diêgo 👾
 
 - 🔭 Ainda não estou trabalhando como desenvolvedor.
-- 📚 Estou focado em aprender Javascript, que será minha primeira linguagem.
+- 📚 Estou focado em aprender Java, que será minha primeira linguagem.
 - 📫 Meu email de contato é: diegorezende1209@gmail.com
 - 😄 Meu pronome é ele/dele.
 - ♾️ Sempre sonhei em ser um desenvolvedor Full Stack, sonho em ter minha empresa e mudar o mundo através da programação.
-- 📱 Meu instagram é: sukunafps.
+- 📱 Meu instagram é: d1egorezendde.
 
 <div align="center">
   <a href="https://github.com/diegorezendeb">
