@@ -3,7 +3,7 @@
 - 🔭 Ainda não estou trabalhando como desenvolvedor.
 - 📚 Curso Sitema de informação.
 - 📫 Meu email de contato é: diegorezende1209@gmail.com
-- ♾️ Sempre sonhei em ser um desenvolvedor Full Stack, sonho em ter minha empresa e mudar o mundo através da programação.
+- ♾️ Sempre sonhei em ser um desenvolvedor Full Stack.
 - 📱 Meu instagram é: d1egorezende.
 
 <div align="center">
